@@ -95,6 +95,7 @@ Table of Contents
 * [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory.
 * [Skype Bot Directory](https://bots.botframework.com/) - The official list of skype bots by Microsoft Bot Framework
 * [Teamchat](http://www.teamchat.com/en/bot-store/) - Bot store by teamchat.
+* [Kik](https://bots.kik.com/#/) - Offical Bot store of Kik.
 
 ## Tutorials
 * [The Complete Beginner’s Guide To Chatbots.](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
@@ -106,6 +107,8 @@ Table of Contents
 * [Pair Programming a Facebook Messenger Bot.](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.b1rilkua8) 
 * [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
+* [Slack Tutorial using the Watson API & Node RED](https://medium.com/unsupervised-coding/create-your-slack-bot-with-conversation-api-node-red-a5bf82aad24d)
+* [Recipe Bot using the Watson API & the Spoonacular API](https://medium.com/unsupervised-coding/how-to-build-a-recipe-slack-bot-using-watson-conversation-and-spoonacular-api-487eacaf01d4)
 
 ## Communities
 * [Bots](https://www.facebook.com/groups/chatbot/) - Facebook group.
@@ -114,6 +117,7 @@ Table of Contents
 * [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Official Facebook group.
 * [Chatbots and Conversational Agents](https://www.quora.com/topic/Chatbots-and-Conversational-Agents) - Quora Topic
+* [Bot Developer Hangouts](http://dev4slack.xoxco.com/) - Community on Slack for all bot platforms.
 
 ## Conferences
 * [ChatbotConf](https://chatbotconf.com/)
